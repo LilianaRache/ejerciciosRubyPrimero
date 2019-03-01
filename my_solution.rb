@@ -2,6 +2,9 @@
 
 # Tu solucion abajo
 
+first_name = "Jeimmy"
+last_name = "Rache"
+age = 25
 
 # Pruebas NO LAS BORRES
 
